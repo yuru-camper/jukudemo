@@ -82,7 +82,7 @@
 
             .link_button {
                 margin-left: auto;
-                font-size: $fos-l-sp;
+                font-size: $fos-m-sp;
             }
         }
 

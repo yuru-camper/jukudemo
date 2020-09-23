@@ -95,7 +95,7 @@
         }
     }
     .jp__review {
-        margin: 0 $margin-side-sp 10vh;
+        margin: 0 0 10vh;
 
         .n_reviews {
             color: $color-light;
@@ -104,6 +104,7 @@
         }
 
         .reviews {
+            margin: 0 $margin-side-sp;
             color: $color-normal;
 
             .review {

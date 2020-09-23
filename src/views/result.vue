@@ -138,7 +138,7 @@ export default {
                     name: '村上塾',
                     address: '秋田県秋田市雄和椿川奥椿岱１９３−２',
                     rate: 4.1,
-                    id: 'murakami',
+                    id: 'hiromitu',
                     thumbs:[
                         require('@/assets/img/neko.png'),
                         require('@/assets/img/saigo.jpg'),
