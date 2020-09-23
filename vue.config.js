@@ -1,6 +1,7 @@
 module.exports = {
-    publicPath: './jukudemo',
+    publicPath: '/jukudemo',
     outputDir: 'docs',
+    assetsDir: "",
     filenameHashing: false,
     productionSourceMap: false,
     css: {

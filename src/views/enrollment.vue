@@ -99,7 +99,7 @@
                     border: solid thin $color-normal;
                     border-radius: 1vw;
                     padding: 3vw 3vw 2.8vw;
-                    width: 100%;
+                    width: calc(100% - 3vw * 2);
                     font-size: $fos-2l-sp;
                 }
 
