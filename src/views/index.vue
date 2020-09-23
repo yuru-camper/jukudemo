@@ -61,6 +61,7 @@
             border-radius: 10vw;
             margin-top: 20vw;
             font-size: $fos-l-sp;
+            color: white;
         }
         
     }
