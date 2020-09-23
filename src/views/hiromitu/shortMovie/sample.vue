@@ -82,6 +82,7 @@
 
             .link_button {
                 margin-left: auto;
+                font-size: $fos-l-sp;
             }
         }
 
@@ -126,7 +127,7 @@ export default {
     data() {
         return {
             video: require('@/assets/video/sample.mp4'),
-            is_paused: true,
+            is_paused: false,
             overview: '村上塾の最初の動画です！村上塾のことが少しでも皆さんに伝わったらうれしいです！塾を回って解説してくれているのは弊塾の塾長、佐藤洋光（さとうひろみつ）先生です！とっても明るくて面白くて人気の先生です！',
             thumbs: this.$store.state.thumbs,
         }

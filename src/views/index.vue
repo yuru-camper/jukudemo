@@ -60,6 +60,7 @@
             padding: 3vw;
             border-radius: 5vw;
             margin-top: 20vw;
+            font-size: $fos-l-sp;
         }
         
     }
