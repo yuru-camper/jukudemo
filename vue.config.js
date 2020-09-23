@@ -1,5 +1,5 @@
 module.exports = {
-    publicPath: '/jukudemo',
+    publicPath: './jukudemo',
     outputDir: 'docs',
     filenameHashing: false,
     productionSourceMap: false,

@@ -25,8 +25,6 @@
                 <img :src="thumb" alt="" class="thumb__img">
             </div>
         </div>
-        
-
     </div>
 </template>
 
