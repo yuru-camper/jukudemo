@@ -58,7 +58,7 @@
             border: none;
             background: $color-brand;
             padding: 3vw;
-            border-radius: 5vw;
+            border-radius: 10vw;
             margin-top: 20vw;
             font-size: $fos-l-sp;
         }
